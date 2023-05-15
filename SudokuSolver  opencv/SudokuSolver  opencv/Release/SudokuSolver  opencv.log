@@ -1,0 +1,101 @@
+﻿  detect_digits.cpp
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\utils.h(12,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\utils.h(23,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\detect_digits.cpp(108,27): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\utils.h(12,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\utils.h(23,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(115,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(116,28): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(117,34): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(117,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(212,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(231,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(232,28): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(233,34): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(233,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\detect_digits.cpp(108,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\solve.cpp(67,27): warning C4018: '<': signed/unsigned mismatch
+  solve.cpp
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\solve.cpp(67,27): warning C4018: '<': signed/unsigned mismatch
+  sudoku_preprocess.cpp
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\utils.h(12,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\utils.h(23,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(115,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(116,28): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(117,34): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(117,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(212,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(231,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(232,28): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(233,34): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Dell\source\repos\SudokuSolver  opencv\SudokuSolver  opencv\sudoku_preprocess.cpp(233,25): warning C4244: 'argument': conversion from 'const int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 450 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SudokuSolver  opencv.vcxproj -> C:\Users\Dell\source\repos\SudokuSolver  opencv\Release\SudokuSolver  opencv.exe
