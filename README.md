@@ -23,6 +23,25 @@ There are many reaons to choose this project some are listed below
 - To utilize computer vision techniques in OpenCV and deep learning models in PyTorch for digit recognition.
 - By completing this project, practical experience is gained in implementing computer vision techniques and building and training deep learning models.
 - To impress my classmates xDD
+## Structure of Project
+This project is divided into 2 sub projects:
+- ##### Training Digit Classifier (Directory named as "Digit Classifier")
+- ##### Using model for solving Sudoku (Directory named as "SudokuSolver opencv")
+
+
+#### 1) Training Digit Classifier
+In this part, I trained Convolutional Neural Net(CNN) model for Digit Classification so I can recognize digits on Sudoku Board.
+To run Python script it requires 
+```bash
+Python3 version: 3.10.11
+Pytorch version: 2.0.0
+```
+It is preferable to use Google Colab for Deep Learning, you can also access google-colab version to train model from here:
+https://colab.research.google.com/drive/1kDC7D7SepjpiCVunYCsn3VkY5p8oe5ME?usp=sharing
+
+
+#### 2) Using model and solving Sudoku
+In this part, I used my own trained model and some other image processing techniqures to solve Sudoku which is obtrained from camera and overly solution on current frame.
 
 ## How to Run this project
 This repository contains 2 branches of same project
@@ -30,7 +49,7 @@ This repository contains 2 branches of same project
 -  Main Branch Uses Visual Studio Solution to build
 
 ### To Run this project on Local Machine 
-1. #### Clone this repository or download as Zip (from green button).
+1. ### Clone this repository or download as Zip (from green button).
 
 This Project requires opencv(C++) to install opencv: 
 ##### Windows
@@ -42,9 +61,9 @@ To install opencv in arch-base Distros simply type this command in Terminal
 ```bash
 pacman -S opencv
 ```
-2. #### Change Directory to Build folder
+2. ### Change Directory to Build folder
 ##### Windows
-Find build Directory Or click on exe file which is present in Root Directory and click on it 
+Find build Directory Or click on "exe" file which is present in Root Directory and click on it 
 
 ##### Linux
 Open Terminal and change Directory to Build and type: 
@@ -53,9 +72,16 @@ cd build
 ./app
 ```
 
+### Credits
+   "Thanks to Bilal Abid for the PNGs and Awaiz for testing code and giving me motivation throughout the project. You guys rock!"
+    "Kudos to Stack Overflow, my coding lifeline!"
+    "Big thanks GitHub, my project's home!"
+    "Grateful to YouTube tutorials, Murtaza Hassan you are BESTEST"
+    "Cheers to ChatGPT, my witty code companion!"
+    
+### Memes
+"To add some spice while battling boredom, I took the liberty of creating memes. Enjoy!"
 
-
-
-
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
 
 
