@@ -82,6 +82,10 @@ cd build
 ### Memes
 "To add some spice while battling boredom, I took the liberty of creating memes. Enjoy!"
 
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/your_video_id" frameborder="0" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://github.com/cls-talha/SudokoSolver-with-opencv-Cpp-and-Pytorch/blob/linux-version/SodukuSolver%20opencv/IShowSpeed%20Dances%20%E2%80%9COne%20Kiss%E2%80%9D%20Green%20Screen%20720p.mp4" frameborder="0" allowfullscreen></iframe>
+" frameborder="0" allowfullscreen></iframe>
+
+
+
 
 
