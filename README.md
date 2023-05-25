@@ -84,8 +84,10 @@ To run this project on your local machine, follow these steps:
 
 ### Memes
 To add some spice while battling boredom, I took the liberty of creating memes. Enjoy!
-
+Background music: https://youtu.be/YaOlxgJHif0
 ![Meme](https://github.com/cls-talha/SudokoSolver-with-opencv-Cpp-and-Pytorch/blob/linux-version/SodukuSolver%20opencv/screenshots/IShowSpeed-Dances-%E2%80%9COne-Kiss%E2%80%9D-Green-Screen-720p.gif)
 
+
+
 ### License
-I don't give a fuck about licenses! You can do whatever you want with this project, just give credits to me. :D
+I don't give a fuck about license! You can do whatever you want with this project, just give credits to this repo :D
